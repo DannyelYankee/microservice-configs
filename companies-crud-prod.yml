@@ -1,5 +1,5 @@
 db:
-  username: daniel-prod
+  username: daniel
   maximum-pool-size: 5
   connection-timeout: 20000
   url: jdbc:postgresql://db-companies:5432/companies
